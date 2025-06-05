@@ -1,1 +1,1 @@
-test
+файл для master!
